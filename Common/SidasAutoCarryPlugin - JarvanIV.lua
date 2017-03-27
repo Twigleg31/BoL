@@ -9,7 +9,7 @@
  ]] --
 
 if myHero.charName ~= "JarvanIV" then return end
-
+asdasdasd
 --[Function When Plugin Loads]--
 function PluginOnLoad()
 	mainLoad() -- Loads our Variable Function
